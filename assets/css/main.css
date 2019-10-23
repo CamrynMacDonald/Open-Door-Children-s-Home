@@ -1962,7 +1962,7 @@ take precedence the ones in this file. */
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #4aa3df;
+				background-color: #518599;
 			}
 
 			input[type="submit"].special:active,
@@ -1970,7 +1970,7 @@ take precedence the ones in this file. */
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #258cd1;
+				background-color: #518599;
 			}
 
 /* Form */
