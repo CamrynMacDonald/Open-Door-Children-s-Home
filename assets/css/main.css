@@ -3308,7 +3308,7 @@ take precedence the ones in this file. */
 		color: rgba(255, 255, 255, 0.75);
 		text-align: center;
 		cursor: default;
-		padding: 10em 4em 9em 4em;
+		padding: 10em 4em 13em 4em;
 	}
 
 		#banner input, #banner select, #banner textarea {
